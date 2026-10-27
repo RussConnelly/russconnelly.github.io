@@ -1,59 +1,36 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><header>
+# Russ Connelly (Russell B. Connelly) — Marine Biologist
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
-
-## Step 2: Configure your site
-
-_You turned on GitHub Pages! :tada:_
-
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
-
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
-
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
-
-### :keyboard: Activity: Configure your site
-
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+**Live Website:** [https://russconnelly.github.io/](https://russconnelly.github.io/)  
+**ORCID:** [0009-0001-5245-0252](https://orcid.org/0009-0001-5245-0252) | **Email:** [r.connelly@essex.ac.uk](mailto:r.connelly@essex.ac.uk) | **LinkedIn:** [Russ-Connelly](https://www.linkedin.com/in/Russ-Connelly/) | **X:** [@RussConnelly_](https://x.com/RussConnelly_)
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## About Me
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+I am a Marine Biologist completing my PhD at the [University of Essex](https://www.essex.ac.uk/) on the detection and conservation of native UK seahorse species using **Passive Acoustic Monitoring (PAM)** and **environmental DNA (eDNA)**.
 
-</footer>
+I have a passion for marine life and conservation, and the application of marine technologies (Structure-from-Motion photogrammetry, bioacoustics, ROV surveys, and machine learning) to enhance our understanding of the underwater world.
+
+- **Research Affiliations:** [Taylor Lab](https://taylorlab.science/) · [Marine Technology Research Unit (MTRU)](https://mtru.uk/) · [Nekton Mission](https://nektonmission.org/)
+- **Diving & Fieldwork:** PADI Divemaster leading scientific dives and teaching SCUBA survey techniques across tropical coral reefs, cold-water UK coasts, estuarine/salt marsh habitats, and freshwater systems.
+
+---
+
+## Peer-Reviewed Publications
+
+- **Interchangeability of structure-from-motion platforms in marine monitoring**  
+  *Ecological Indicators* (2026-09) · Journal article  
+  Contributors: Jessica L. Rhodes; **Russell B. Connelly**; Boyd A. McKew; Jon Chamberlain  
+  DOI: [10.1016/j.ecolind.2026.115335](https://doi.org/10.1016/j.ecolind.2026.115335) · ISSN: [1470-160X](https://portal.issn.org/resource/ISSN/1470-160X)
+
+- **A finding of maintained cryonotothenioid nesting sites in the Western Weddell Sea**  
+  *Frontiers in Marine Science* (2025-10-29) · Journal article  
+  Contributors: **Russell B. Connelly**; Lucy C. Woodall; Alex David Rogers; Michelle L. Taylor  
+  DOI: [10.3389/fmars.2025.1648168](https://doi.org/10.3389/fmars.2025.1648168) · ISSN: [2296-7745](https://portal.issn.org/resource/ISSN/2296-7745)
+
+---
+
+## LLM & Search Indexing
+
+- Structured summary for AI assistants and crawlers: [`/llms.txt`](https://russconnelly.github.io/llms.txt)
+- Sitemap: [`/sitemap.xml`](https://russconnelly.github.io/sitemap.xml)

@@ -1,0 +1,54 @@
+# Russ Connelly (Russell B. Connelly)
+
+> Marine Biologist & PhD Candidate at the University of Essex specializing in native UK seahorse conservation using Passive Acoustic Monitoring (PAM), environmental DNA (eDNA), Structure-from-Motion (SfM) photogrammetry, and marine technologies.
+
+- **Website**: https://russconnelly.github.io/
+- **ORCID**: https://orcid.org/0009-0001-5245-0252
+- **Email**: r.connelly@essex.ac.uk
+- **LinkedIn**: https://www.linkedin.com/in/Russ-Connelly/
+- **X (Twitter)**: https://x.com/RussConnelly_
+- **Affiliation**: University of Essex (https://www.essex.ac.uk/)
+- **Research Groups & Collaborations**:
+  - Taylor Lab (https://taylorlab.science/)
+  - Marine Technology Research Unit / MTRU (https://mtru.uk/)
+  - Nekton Mission (https://nektonmission.org/)
+
+## Research & Bio
+
+Russ Connelly (published as Russell B. Connelly) is a Marine Biologist completing his PhD at the University of Essex on the non-invasive detection and conservation of native UK seahorse species (*Hippocampus guttulatus* and *Hippocampus hippocampus*) using passive acoustic monitoring (PAM) and environmental DNA (eDNA).
+
+His broader research spans marine technology, Structure-from-Motion (SfM) photogrammetry, benthic and polar ecology (including maintained cryonotothenioid fish nesting sites in the Western Weddell Sea, Southern Ocean), scientific diving, and machine learning applications in marine monitoring.
+
+## Education & Qualifications
+
+- **PhD in Marine Biology** — University of Essex (Current)
+  - Focus: Detection of native UK seahorse species using passive acoustic monitoring (PAM) and environmental DNA (eDNA).
+- **MSD in Marine Biology** — University of Essex (2021–2023)
+  - Investigated fish community composition in the Wakatobi Marine National Park and studied cryonotothenioid icefish nests in the Weddell Sea using ROV data.
+- **BSc (Hons) in Marine Biology (First-Class Honours)** — University of Essex (2018–2021)
+  - Awarded the University of Essex Environmental and Conservation Prize alongside 5 other academic awards.
+- **PADI Divemaster & Scientific Diver** — Leading scientific diving operations and teaching underwater survey techniques across tropical reef, cold-water UK coastal, estuarine/salt marsh, and freshwater systems.
+
+## Peer-Reviewed Publications
+
+1. **Interchangeability of structure-from-motion platforms in marine monitoring**
+   - **Journal**: *Ecological Indicators* (ISSN: 1470-160X)
+   - **Date**: September 2026 (2026-09)
+   - **Type**: Journal article
+   - **Authors**: Jessica L. Rhodes, Russell B. Connelly, Boyd A. McKew, Jon Chamberlain
+   - **DOI**: https://doi.org/10.1016/j.ecolind.2026.115335
+
+2. **A finding of maintained cryonotothenioid nesting sites in the Western Weddell Sea**
+   - **Journal**: *Frontiers in Marine Science* (ISSN: 2296-7745)
+   - **Date**: October 29, 2025 (2025-10-29)
+   - **Type**: Journal article
+   - **Authors**: Russell B. Connelly, Lucy C. Woodall, Alex David Rogers, Michelle L. Taylor
+   - **DOI**: https://doi.org/10.3389/fmars.2025.1648168
+
+## Technical Skills & Areas of Expertise
+
+- **Fieldwork & Diving**: Fieldwork planning and logistics, scientific diving techniques, PADI Divemaster, ROV/drop-camera survey analysis, drone operation.
+- **Molecular & Acoustic Monitoring**: Environmental DNA (eDNA) metabarcoding/qPCR workflows, Passive Acoustic Monitoring (PAM) bioacoustics analysis.
+- **3D & Spatial Analysis**: Structure-from-Motion (SfM) underwater photogrammetry, GIS, fisheries management, stakeholder engagement, citizen science.
+- **Data Science & Programming**: R, Python, machine learning and AI for marine ecological monitoring.
+- **Taxonomic & Regional Specialties**: UK coastal & seagrass ecosystems (Studland Bay, North Norfolk chalk reefs, Essex estuaries), Indo-Pacific coral reefs (Wakatobi), and Fishes of the Southern Ocean (Weddell Sea).
